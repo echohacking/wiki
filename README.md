@@ -1,2 +1,3 @@
-# Wiki
-We just use the wiki in this repo.
+# [Wiki](https://github.com/echohacking/wiki/wiki)
+
+We just use the [wiki](https://github.com/echohacking/wiki/wiki) in this repo.
